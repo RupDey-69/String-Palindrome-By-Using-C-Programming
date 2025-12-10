@@ -1,1 +1,3 @@
 # String-Palindrome-By-Using-C-Programming
+Author :Rup Dey <br>
+This For All Beginner To Easy To Understand...
